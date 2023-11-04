@@ -11,4 +11,8 @@ resource_groups = {
     name   = "caf-level2"
     region = "region1"
   }
+  net_region1 = {
+    name   = "caf-rgnetwork"
+    region = "region1"
+  }
 }
